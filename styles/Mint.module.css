@@ -333,7 +333,11 @@
   color: crimson;
 }
 .selectBoxDescription1 {
-  color: rgba(255, 255, 255, 0.9);
+  background-image: linear-gradient(to right, rgb(255, 28, 255), rgb(253, 96, 253), rgb(253, 44, 211), rgb(252, 27, 199), rgb(157, 0, 255), rgb(121, 8, 82), rgb(195, 0, 255));
+  -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent;  
   margin-top: 0px;
 }
 .optionSelectBox2 {
@@ -358,7 +362,11 @@
   color: rgb(5, 1, 251);
 }
 .selectBoxDescription2 {
-  color: rgba(255, 255, 255, 0.9);
+  background-image: linear-gradient(to right, rgb(255, 28, 255), rgb(253, 96, 253), rgb(253, 44, 211), rgb(252, 27, 199), rgb(157, 0, 255), rgb(121, 8, 82), rgb(195, 0, 255));
+  -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent; 
   margin-top: 0px;
 }
 .optionSelectBox3 {
@@ -383,8 +391,11 @@
   color: rgb(16, 99, 2);
 }
 .selectBoxDescription3 {
-  color: rgba(255, 255, 255, 0.9);
-  margin-top: 0px;
+  background-image: linear-gradient(to right, rgb(255, 28, 255), rgb(253, 96, 253), rgb(253, 44, 211), rgb(252, 27, 199), rgb(157, 0, 255), rgb(121, 8, 82), rgb(195, 0, 255));
+  -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent; 
 }
 .optionSelectBox4 {
   border-radius: 16px;
@@ -408,7 +419,11 @@
   color: rgb(255, 220, 22);
 }
 .selectBoxDescription4 {
-  color: rgba(254, 254, 254, 0.9);
+  background-image: linear-gradient(to right, rgb(255, 28, 255), rgb(253, 96, 253), rgb(253, 44, 211), rgb(252, 27, 199), rgb(157, 0, 255), rgb(121, 8, 82), rgb(195, 0, 255));
+  -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent; 
   margin-top: 0px;
 }
 .optionSelectBox5 {
@@ -433,7 +448,11 @@
   color: rgb(251, 129, 237);
 }
 .selectBoxDescription5 {
-  color: rgba(255, 255, 255, 0.921);
+  background-image: linear-gradient(to right, rgb(255, 28, 255), rgb(253, 96, 253), rgb(253, 44, 211), rgb(252, 27, 199), rgb(157, 0, 255), rgb(121, 8, 82), rgb(195, 0, 255));
+  -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent; 
   margin-top: 0px;
 }
 .optionSelectBox6 {
@@ -458,7 +477,11 @@
   color: rgb(26, 168, 196);
 }
 .selectBoxDescription6 {
-  color: rgba(255, 255, 255, 0.9);
+  background-image: linear-gradient(to right, rgb(255, 28, 255), rgb(253, 96, 253), rgb(253, 44, 211), rgb(252, 27, 199), rgb(157, 0, 255), rgb(121, 8, 82), rgb(195, 0, 255));
+  -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent; 
   margin-top: 0px;
 }
 .optionSelectBox7 {
@@ -483,7 +506,11 @@
   color: rgb(40, 240, 170);
 }
 .selectBoxDescription7 {
-  color: rgba(255, 255, 255, 0.9);
+  background-image: linear-gradient(to right, rgb(255, 28, 255), rgb(253, 96, 253), rgb(253, 44, 211), rgb(252, 27, 199), rgb(157, 0, 255), rgb(121, 8, 82), rgb(195, 0, 255));
+  -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent; 
   margin-top: 0px;
 }
 .optionSelectBox8 {
@@ -508,7 +535,11 @@
   color: rgb(251, 248, 143);
 }
 .selectBoxDescription8 {
-  color: rgba(255, 255, 255, 0.9);
+  background-image: linear-gradient(to right, rgb(255, 28, 255), rgb(253, 96, 253), rgb(253, 44, 211), rgb(252, 27, 199), rgb(157, 0, 255), rgb(121, 8, 82), rgb(195, 0, 255));
+  -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent; 
   margin-top: 0px;
 }
 
