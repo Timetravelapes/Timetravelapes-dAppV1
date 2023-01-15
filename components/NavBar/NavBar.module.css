@@ -1,0 +1,120 @@
+.NavBar{
+    width: 90%;
+    margin:  2rem auto;
+}
+
+.NavBar_box{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.NavBar_box_left{
+    display: flex;
+    gap: 4rem;
+    align-items: center;
+}
+
+.NavBar_box_left_menu{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    z-index: 111111111;
+    position: fixed;
+    left: 8rem;
+}
+.NavBar_box_left_menu_item{
+    font-size: 1.2rem;
+    color: rgba(255, 0, 221);
+    cursor: pointer;
+}
+
+.NavBar_box_middle{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    z-index: 111111111;
+    position: fixed;
+    left: 3.5rem;
+    
+}
+.NavBar_box_middle_search{
+    font-size: 1.2rem;
+    color: rgba(255, 0, 221);
+    cursor: pointer;
+    gap: 1rem;
+    
+   
+    
+}
+
+.NavBar_box_middle input{
+    display: flex;
+    align-items: center;
+   
+    
+}
+
+.NavBar_box_middle_search_img {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    right: 1rem;
+    left: 1rem;
+    
+}
+
+.NavBar_box_right{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 1rem;
+    z-index: 111111111;
+    margin-top: 15px;
+    position: fixed;
+    right: 1rem;
+    
+    top: 0rem;
+}
+
+.NavBar_box_right button{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background-color: transparent;
+    padding: 1px 1px;
+    border: none;
+    
+    
+    
+    cursor: pointer;
+    text-transform: capitalize;
+}
+
+
+
+@media only screen and (max-width: 15em) {
+    .NavBar{
+        width: 90%;
+    }
+    .NavBar_box{
+        grid-template-columns: .5fr 1fr;
+    }
+
+    .NavBar_box_middle{
+        display: flex;
+    }
+    .NavBar_box_left_menu{
+        display: none;
+    }
+
+    .NavBar_box_right{
+        display: flex;
+        top: 0.65rem;
+        left: 1rem;
+        right: 2rem;
+    }
+}
+
