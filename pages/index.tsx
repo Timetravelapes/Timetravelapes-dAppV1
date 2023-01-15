@@ -42,8 +42,7 @@ const Home: NextPage = () => {
         </div> */}
         {/* <p className={styles.optionSelect}>💥STAKE💥  💥SALE💥  💥CLAIM💥  💥MINT💥</p> */}
           
-        <div id="animated-background" class="animated-background animated-background--red" data-color="red"><canvas id="can0" width="1680" height="635"></canvas>
-    </div>
+       
     
 
 
