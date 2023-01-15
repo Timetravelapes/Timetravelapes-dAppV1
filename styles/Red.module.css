@@ -30,8 +30,7 @@
   max-width: 95vw;
   gap: 2%;
   border: 1px solid var(--border-color);
-  border-radius: 16px;
-  border-color: rgb(250, 18, 18);
+  
 }
 
 .infoSide {
