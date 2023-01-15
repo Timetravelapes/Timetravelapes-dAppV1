@@ -37,8 +37,8 @@
     gap: 1rem;
     z-index: 111111111;
     position: fixed;
-    left: 3.5rem;
-    
+    left: .5rem;
+    top: 3.5rem;
 }
 .NavBar_box_middle_search{
     font-size: 1.2rem;
