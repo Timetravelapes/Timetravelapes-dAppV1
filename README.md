@@ -22,7 +22,7 @@
 
 ## dApp 
 
-(https://app.timetravelapes.com/) 
+(https://dapp.timetravelapes.com/) 
 
 
 
