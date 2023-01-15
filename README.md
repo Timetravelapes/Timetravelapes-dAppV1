@@ -14,8 +14,8 @@
   </a>
   
  </p>
-- [**Homepage**](https://timetravelapes.com) 
-- [**dApp**](https://app.timetravelapes.com/) 
+[**Homepage**](https://timetravelapes.com) 
+[**dApp**](https://app.timetravelapes.com/) 
 
 
 
