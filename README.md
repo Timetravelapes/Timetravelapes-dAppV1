@@ -10,7 +10,7 @@
 
 <p align="center">
 <a aria-label="NPM version" href="https://www.npmjs.com/package/next">
-    <img alt="" src="https://img.shields.io/npm/v/next.svg?style=for-the-badge&labelColor=000000">
+    <img alt="" src="https://i.ibb.co/dQKD3v3/Unbenannt-2.jpg">
   </a>
   
  </p>
