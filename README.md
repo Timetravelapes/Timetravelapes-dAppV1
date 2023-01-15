@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://timetravelapes.com">
+  <a >
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/YZ11TPJ/Banner.png">
-      <img src="https://i.ibb.co/YZ11TPJ/Banner.png" height="128">
+      <img src="https://i.ibb.co/YZ11TPJ/Banner.png" height="256">
     </picture>
-    <h1 align="center">Timetravelapes dApp</h1>
   </a>
 </p>
+
 
 <p align="center">
   <a aria-label="Vercel logo" href="https://twitter.com/timetravelapes">
@@ -22,24 +22,26 @@
     <img alt="" src="https://img.shields.io/badge/discord-join%20our%20community-green">
   </a>
 </p>
- 
-## Homepage 
+
+## dApp 
 <p align="center">
   <a href="https://dapp.timetravelapes.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/18nwCbM/homepage-snapshot.png">
-      <img src="https://i.ibb.co/18nwCbM/homepage-snapshot.png" height="128">
+      <img src="https://i.ibb.co/18nwCbM/homepage-snapshot.png" height="300">
     </picture>
     
   </a>
 </p>
 
-## dApp 
-
-(https://dapp.timetravelapes.com/) 
-
-
-
-### Join our Discord!
-
-For any questions, suggestions, join our Discord at [https://discord.com/invite/cU5c552APM](https://discord.com/invite/cU5c552APM).
+## Homepage web2.0 
+<p align="center">
+  <a href="https://timetravelapes.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/tMJZB5M/homepage-snapshot2.png">
+      <img src="https://i.ibb.co/tMJZB5M/homepage-snapshot2.png" width="800">
+    </picture>
+    
+  </a>
+</p> 
+ 
