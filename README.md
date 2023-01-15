@@ -25,7 +25,7 @@
  
 ## Homepage 
 <p align="center">
-  <a href="https://timetravelapes.com">
+  <a href="https://dapp.timetravelapes.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/18nwCbM/homepage-snapshot.png">
       <img src="https://i.ibb.co/18nwCbM/homepage-snapshot.png" height="128">
