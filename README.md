@@ -4,6 +4,13 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/YZ11TPJ/Banner.png">
       <img src="https://i.ibb.co/YZ11TPJ/Banner.png" height="128">
     </picture>
-    <h1 align="center">Next.js</h1>
+    <h1 align="center">dApp</h1>
   </a>
 </p>
+
+<p align="center">
+<a aria-label="NPM version" href="https://www.npmjs.com/package/next">
+    <img alt="" src="https://img.shields.io/npm/v/next.svg?style=for-the-badge&labelColor=000000">
+  </a>
+  
+ </p>
