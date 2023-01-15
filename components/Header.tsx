@@ -37,7 +37,7 @@ export default function Header() {
               className={styles.mainButton3}
               onClick={() => disconnectWallet()}
             >
-              Disconnect Wallet
+              Disconnect
             </a>
             <p style={{ marginLeft: 8, marginRight: 8, color: "#ff00f6" }}>|</p>
             <p style={{ marginLeft: 8, marginRight: 8, color: "#ff00f6" }}>{address.slice(0, 6).concat("...").concat(address.slice(-4))}</p>
