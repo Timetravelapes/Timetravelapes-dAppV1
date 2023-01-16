@@ -39,7 +39,7 @@ const disconnectWallet = useDisconnect();
 
         <hr className={styles.divider} />
 
-        <div style={{ marginTop: 32, marginBottom: 32, marginLeft: 230, }}>
+        <div style={{ marginTop: 32, marginBottom: 32, marginLeft: 200, }}>
           <Link href="/create">
             <a className={styles.mainButton} style={{ textDecoration: "none" }}>
               Create A Listing
@@ -47,7 +47,7 @@ const disconnectWallet = useDisconnect();
           </Link>
         </div>
 
-        <div style={{ marginTop: -80, marginBottom:32, marginRight: 250,  }}>
+        <div style={{ marginTop: -80, marginBottom:32, marginRight: 200,  }}>
         {address ? (
           <>
             <a
