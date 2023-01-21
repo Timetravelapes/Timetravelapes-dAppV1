@@ -1,5 +1,6 @@
 
 
+
 .connect {
   position: fixed;
   top: 5%;
@@ -44,7 +45,7 @@
   justify-content: center;
   width: 100vw;
   color: #ff00fb;
-  background-image: linear-gradient(#dfa9ff 20%, #eed2ff 70%);
+ 
 }
 .container1{
   margin-top: 96px;
@@ -79,6 +80,160 @@
 .arrowButton {
   border-radius: 50%;
   width: 30px;
+}
+
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-250px * 7));
+  }
+}
+.slider {
+  
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+  width: 1000px;
+  height: 100px;
+  margin-top: 10rem;
+  
+
+  /* before */
+}
+
+.slider::before {
+  content: "";
+  height: 100px;
+  position: absolute;
+  width: 200px;
+  z-index: 2;
+  left: 0;
+  top: 0;
+}
+
+.slider::after {
+  content: "";
+  height: 100px;
+  position: absolute;
+  width: 100px;
+  z-index: 2;
+  right: 0;
+  top: 0;
+  transform: rotateZ(180deg);
+}
+
+.slideTrack {
+  animation: scroll 25s linear infinite;
+  display: flex;
+  width: calc(450px * 20);
+}
+
+.slide {
+  height: 150px;
+  width: 250px;
+  cursor: pointer;
+}
+.slide1 {
+  height: 150px;
+  width: 250px;
+  cursor: pointer;
+}
+.slide2 {
+  height: 150px;
+  width: 250px;
+  cursor: pointer;
+}
+.slide3 {
+  height: 150px;
+  width: 250px;
+  cursor: pointer;
+}
+.slide4 {
+  height: 150px;
+  width: 250px;
+  cursor: pointer;
+}
+.slide5 {
+  height: 150px;
+  width: 250px;
+  cursor: pointer;
+}
+.slide6 {
+  height: 150px;
+  width: 250px;
+  cursor: pointer;
+}
+.slide7 {
+  height: 150px;
+  width: 250px;
+  cursor: pointer;
+}
+.slide8 {
+  height: 150px;
+  width: 250px;
+  cursor: pointer;
+}
+.slide9 {
+  height: 150px;
+  width: 250px;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 100px) and (max-width: 300px) {
+
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(calc(-100px * 7));
+    }
+  }
+  
+  .slider {
+    height: 48px;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    width: 100px;
+  
+    /* before */
+  }
+  
+  .slider::before {
+    content: "";
+    height: 100px;
+    position: absolute;
+    width: 100px;
+    z-index: 2;
+    left: 0;
+    top: 0;
+  }
+  
+  .slider::after {
+    content: "";
+    height: 100px;
+    position: absolute;
+    width: 100px;
+    z-index: 2;
+    right: 0;
+    top: 0;
+    transform: rotateZ(180deg);
+  }
+  
+  .slideTrack {
+    animation: scroll 10s linear infinite;
+    display: flex;
+    width: calc(250px * 14);
+  }
+  
+  .slide {
+    height: 100px;
+    width: 250px;
+  }
 }
 
 .owner {
@@ -480,3 +635,4 @@
   }
   
 }
+
